@@ -2,7 +2,7 @@
 name = "beerlog"
 version = "0.1.0"
 description = ""
-authors = ["Bruno Rocha <rochacbruno@gmail.com>"]
+authors = ["dudeBug"]
 include = ["beerlog/settings.toml"]
 
 [tool.poetry.dependencies]
